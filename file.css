@@ -1,0 +1,14 @@
+.container{
+    text-align:center;
+    margin:20px auto 0;
+}
+#color-box{
+    width:200px;
+    height: 150px;
+    background-color:gray;
+}
+#change-color-btn{
+    width:200px;
+    height: 100px; 
+    color: blue;  
+}
